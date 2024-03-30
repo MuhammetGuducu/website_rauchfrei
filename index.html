@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rauchfrei Rechner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+    <div id="navigation">
+
+        <a href="index.html"> <div id="logo"> </div> </a>
+
+        <div id="nav_heading">
+            <a href="#top">Rauchfrei Rechner </a>
+        </div>
+
+        <div id="nav_menu">
+            <a href="information.html">
+                Rauchen Allgemein
+            </a>
+        </div>
+    </div>
+
+
+    <div class="calculator">
+        <form id="calculatorForm">
+            <div class="input-field tooltip">
+                <label for="smokeStopDay">Aufgehört zu rauchen am <span class="question-mark">?</span></label>
+                <span class="tooltiptext">Wann hast du ungefähr aufgehört zu rauchen?</span>
+                <input type="date" id="smokeStopDay" name="smokeStopDay" max="" placeholder="TT.MM.JJJJ" required>
+            </div>
+            <div class="input-field tooltip">
+                <label for="dailyCigaretes">Konsum an Zigaretten pro Tag <span class="question-mark">?</span></label>
+                <span class="tooltiptext">Wieviele Zigaretten hast du ungefähr pro Tag geraucht?</span>
+                <input type="number" id="dailyCigaretes" name="dailyCigaretes" min="1" step="1" placeholder="St." required">
+            </div>
+            <div class="input-field tooltip">
+                <label for="cigaretesPerPack">Zigaretten pro Schachtel <span class="question-mark">?</span></label>
+                <span class="tooltiptext">Wieviele Zigaretten waren ungefähr in deiner Schachtel?</span>
+                <input type="number" id="cigaretesPerPack" name="cigaretesPerPack" min="1" step="1" placeholder="St." required>
+            </div>
+            <div class="input-field tooltip">
+                <label for="packPrice">Preis je Schachtel <span class="question-mark">?</span></label>
+                <span class="tooltiptext">Wie teuer war deine Schachtel durchschnittlich?</span>
+                <input type="number" id="packPrice" name="packPrice" min="5" step="0.50" placeholder="€" required>
+            </div>
+            <input type="submit" value="Berechnen" id="calculateButton" style="width: 50%; margin-left: 25%;">
+        </form>
+    </div>
+
+
+
+
+
+    <div class="results">
+        <div class="financial">
+            <h1>Finanzielle Vorteile</h1>
+            <div class="benefit" id="zeitVorteil">
+                <div class="benefit-arrow"></div>
+                <h3>Zeitersparnis</h3>
+                <p class="benefit-text" id="zeitErspart"></p>
+            </div>
+            <div class="benefit" id="geldVorteil">
+                <div class="benefit-arrow"></div>
+                <h3>Geldersparnis</h3>
+                <p class="benefit-text" id="geldErspart"></p>
+            </div>
+            <div class="benefit" id="zinsVorteil">
+                <div class="benefit-arrow"></div>
+                <h3>Konto mit 4%</h3>
+                <p class="benefit-text" id="zinsGewinn"></p>
+            </div>
+        </div>
+        <div class="health">
+            <h1>Gesundheitsvorteile</h1>
+            <div class="benefit" id="1Tag">
+                <div class="benefit-arrow"></div>
+                <h3>1 Tag </h3>
+                <p class="benefit-text">Blutdruck und Puls sinken, Sauerstoffzufuhr der Organe normalisiert sich</p>
+            </div>
+            <div class="benefit" id="14Tage">
+                <div class="benefit-arrow"></div>
+                <h3>14 Tage </h3>
+                <p class="benefit-text">Durchblutung und Lungenfunktion verbessert sich. Die Ausdauer normalisiert sich</p>
+            </div>
+            <div class="benefit" id="30Tage">
+                <div class="benefit-arrow"></div>
+                <h3>30 Tage </h3>
+                <p class="benefit-text">Hustenanfälle, Kurzatmigkeit, Infektionsgefahr der Lungen gehen zurück</p>
+            </div>
+            <div class="benefit" id="1Jahr">
+                <div class="benefit-arrow"></div>
+                <h3>1 Jahr </h3>
+                <p class="benefit-text">Das Risiko für die Koronare Herzkrankheit (KHK) halbiert sich. Das Herzinfarkt-Risiko normalisiert sich zunehmend</p>
+            </div>
+            <div class="benefit" id="5Jahre">
+                <div class="benefit-arrow"></div>
+                <h3>5 Jahre </h3>
+                <p class="benefit-text">Das Risiko für Mund-, Rachen-, Speiseröhren- und Blasenkrebs halbiert sich</p>
+            </div>
+            <div class="benefit" id="15Jahre">
+                <div class="benefit-arrow"></div>
+                <h3>15 Jahre </h3>
+                <p class="benefit-text">Das Risiko für die Koronare Herzkrankheit, Kehlkopf-, Bauchspeicheldrüsen- und Lungenkrebs normalisiert sich</p>
+            </div>
+        </div>
+    </div>
+    <script src="rechner.js"></script>
+</body>
+</html>
