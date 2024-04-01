@@ -1,6 +1,6 @@
 # Rauchfrei Rechner
 
-Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motivation für das Nichtrauchen stärkt indem Vorteile visualisiert werden. Der interaktive Rechner ermöglicht finanzielle und gesundheitliche Vorteile des Nichtrauchens zu berechnen. Zudem bietet eine zweite Seite weitere Informationen zum Rauchen. 
+Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motivation für das Nichtrauchen stärkt indem Vorteile visualisiert werden. Der interaktive Rechner ermöglicht finanzielle und gesundheitliche Vorteile des Nichtrauchens zu berechnen. Zudem könnte die zweite Seite weitere Informationen zum Rauchen bieten. 
 
 ## Features
 
