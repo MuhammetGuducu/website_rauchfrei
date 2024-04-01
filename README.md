@@ -5,7 +5,7 @@ Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motiva
 ## Features
 
 - **Logik**: Berechnet finanzielle Einsparungen und gesundheitliche Verbesserungen seit dem Rauchstopp.
-- **Interaktiv**: Nutzer können wichtige Daten wie das Datum des Rauchstopps, täglichen Zigarettenkonsum und weitere relevante Informationen eingeben.
+- **Interaktiv**: Nutzer können alle wichtigen Daten zur Berechnung eingeben und erhalten eine korrekte Visualisierung ihrer Erfolge.
 - **Informativ**: Bereitstellung von Informationen über die allgemeinen Auswirkungen des Rauchens.
 
 ## Programmiersprachen
