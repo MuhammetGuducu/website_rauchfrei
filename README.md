@@ -30,7 +30,7 @@ Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motiva
 
 
 > [!TIP]
-> Alle notwendigen Dateien (Implementierung & Bilder) müssen heruntergeladen werden, anschließend kann "index.html" geöffnet werden. 
-> Im Rechner werden persönliche Informationen eingegeben. 
-> Beim Klick auf "Berechnen", werden Einsparungen und gesundheitliche Vorteile angezeigt.
-> Beim Klick auf "Rauchen Allgemein" in der Navigationsbar, werden Allgemeine Informationen zum Rauchen angezeigt. Zurück gelangt man durch den Klick auf "Rauchfrei Rechner"
+> - Alle notwendigen Dateien (Implementierung & Bilder) müssen heruntergeladen werden
+> - Anschließend kann entweder "index.html" oder "information.html" geöffnet werden
+> - Beim Klick auf "Berechnen", werden Einsparungen und gesundheitliche Vorteile angezeigt
+> - Beim Klick auf "Rauchen Allgemein" in der Navigationsbar, werden Allgemeine Informationen zum Rauchen angezeigt. Zurück gelangt man durch den Klick auf "Rauchfrei Rechner"
