@@ -24,8 +24,7 @@ Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motiva
 
 ## Zukünftige Erweiterungen
 
-- Integration weiterer interaktiver Features.
-- Anpassung des Designs für eine verbesserte Nutzererfahrung.
+- Verbesserung des Designs für eine bessere Nutzererfahrung. 
 - Benutzerprofile implementieren, die Daten wie Rauchstopp für spätere Zugriffe speichert. Dadurch könnten Nutzer langfristig ihre Erfolge dokumentieren. 
 
 
