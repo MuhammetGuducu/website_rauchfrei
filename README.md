@@ -38,7 +38,7 @@ Der "Rauchfrei Rechner" ist eine (statische) Website, die langfristig die Motiva
 
 ## Screenshots
 ![image](https://github.com/MuhammetGuducu/website_rauchfrei/assets/84397069/058777b3-02ee-47c5-be3c-bf1d1895706c)
-![image](https://github.com/MuhammetGuducu/website_rauchfrei/assets/84397069/97b16519-c4e8-4757-be8b-2277a5a40fd5)
+![image](https://github.com/MuhammetGuducu/website_rauchfrei/assets/84397069/006c48d6-4d4f-45b6-b319-13cec3a44723)
 ![image](https://github.com/MuhammetGuducu/website_rauchfrei/assets/84397069/3c39c1ca-9894-45ee-9e0f-45f7256ea57f)
 
 
